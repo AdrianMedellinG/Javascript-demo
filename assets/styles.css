@@ -1,0 +1,16 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar-img {
+  width: 150px;
+  padding: 0px 10px;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .show > .nav-link {
+  color: white;
+}/*# sourceMappingURL=styles.css.map */
